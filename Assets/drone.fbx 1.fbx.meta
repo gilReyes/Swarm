@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 24d68b8f00c69e64aa225c5bbaf42f98
+timeCreated: 1500487621
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Antenna_l_front
+    100002: Antenna_l_front_1
+    100004: Antenna_l_front_2
+    100006: Antenna_l_front_2_2
+    100008: Body
+    100010: Cylinder
+    100012: Cylinder_0_1
+    100014: Cylinder_0_1_2
+    100016: Cylinder_2
+    100018: Cylinder_2_2
+    100020: Cylinder_2_3
+    100022: Cylinder_3
+    100024: Cylinder_4
+    100026: Cylinder_5
+    100028: Cylinder_6
+    100030: Cylinder_L
+    100032: Cylinder_R
+    100034: //RootNode
+    100036: eye
+    100038: eye2
+    100040: flap_l
+    100042: flap_r
+    100044: Flaps
+    100046: Moon
+    100048: Physical_Sky
+    100050: propeller_L
+    100052: propeller_r
+    100054: Shadow_Plane
+    100056: Sky
+    100058: Sky_Null
+    100060: Sun
+    100062: Torus
+    100064: Torus_2
+    400000: Antenna_l_front
+    400002: Antenna_l_front_1
+    400004: Antenna_l_front_2
+    400006: Antenna_l_front_2_2
+    400008: Body
+    400010: Cylinder
+    400012: Cylinder_0_1
+    400014: Cylinder_0_1_2
+    400016: Cylinder_2
+    400018: Cylinder_2_2
+    400020: Cylinder_2_3
+    400022: Cylinder_3
+    400024: Cylinder_4
+    400026: Cylinder_5
+    400028: Cylinder_6
+    400030: Cylinder_L
+    400032: Cylinder_R
+    400034: //RootNode
+    400036: eye
+    400038: eye2
+    400040: flap_l
+    400042: flap_r
+    400044: Flaps
+    400046: Moon
+    400048: Physical_Sky
+    400050: propeller_L
+    400052: propeller_r
+    400054: Shadow_Plane
+    400056: Sky
+    400058: Sky_Null
+    400060: Sun
+    400062: Torus
+    400064: Torus_2
+    2300000: Antenna_l_front
+    2300002: Antenna_l_front_1
+    2300004: Antenna_l_front_2
+    2300006: Antenna_l_front_2_2
+    2300008: Body
+    2300010: Cylinder
+    2300012: Cylinder_0_1
+    2300014: Cylinder_0_1_2
+    2300016: Cylinder_2
+    2300018: Cylinder_2_2
+    2300020: Cylinder_2_3
+    2300022: Cylinder_3
+    2300024: Cylinder_4
+    2300026: Cylinder_5
+    2300028: Cylinder_6
+    2300030: Cylinder_L
+    2300032: Cylinder_R
+    2300034: eye
+    2300036: eye2
+    2300038: flap_l
+    2300040: flap_r
+    2300042: Torus
+    2300044: Torus_2
+    3300000: Antenna_l_front
+    3300002: Antenna_l_front_1
+    3300004: Antenna_l_front_2
+    3300006: Antenna_l_front_2_2
+    3300008: Body
+    3300010: Cylinder
+    3300012: Cylinder_0_1
+    3300014: Cylinder_0_1_2
+    3300016: Cylinder_2
+    3300018: Cylinder_2_2
+    3300020: Cylinder_2_3
+    3300022: Cylinder_3
+    3300024: Cylinder_4
+    3300026: Cylinder_5
+    3300028: Cylinder_6
+    3300030: Cylinder_L
+    3300032: Cylinder_R
+    3300034: eye
+    3300036: eye2
+    3300038: flap_l
+    3300040: flap_r
+    3300042: Torus
+    3300044: Torus_2
+    4300000: Body
+    4300002: Antenna_l_front_2
+    4300004: Cylinder
+    4300006: Antenna_l_front_2_2
+    4300008: Cylinder_2
+    4300010: Antenna_l_front_1
+    4300012: Cylinder_3
+    4300014: Antenna_l_front
+    4300016: Cylinder_4
+    4300018: Cylinder_5
+    4300020: Torus
+    4300022: Cylinder_2_2
+    4300024: Cylinder_0_1
+    4300026: Cylinder_6
+    4300028: Torus_2
+    4300030: Cylinder_2_3
+    4300032: Cylinder_0_1_2
+    4300034: flap_r
+    4300036: flap_l
+    4300038: eye2
+    4300040: eye
+    4300042: Cylinder_L
+    4300044: Cylinder_R
+    7400000: C4D Animation Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
